@@ -2,7 +2,7 @@
 
 **Dolby Atmos driver + Control App for PCs and laptops that don't officially ship with it.**
 
-This repository provides modified `.inf` audio drivers and the companion Control App (Home / Gaming) so Dolby Atmos can be installed on supported-but-unlicensed hardware. Read **Before you start** first: this changes low-level Windows security settings.
+This repository provides modified `.inf` audio drivers and the companion Control App (Home / Gaming) so Dolby Atmos can be installed on supported-but-unlicensed hardware. Read **Before you start** first: this changes low-level Windows security settings. Note: This is not a fake repository with virus inside files. You can verify the files by virus scanners. Read Disclaimer and Notice at the end before any DMCA takedown notice.
 
 ---
 
